@@ -1,7 +1,7 @@
 
 ## 服务器仓库
 
-[https://github.com/Howlyao/REST_API_Server](https://github.com/Howlyao/REST_API_Server)
+[https://github.com/Service-Computing/REST_API_Server](https://github.com/Service-computing/REST_API_Server)
 
 ## 服务器配置
 
@@ -46,7 +46,7 @@ import(
 
 #### 服务器项目文件说明
 
-#####文件目录
+##### 文件目录
 ```
 REST_API_Server
 │   main.go   
